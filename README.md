@@ -9,4 +9,12 @@
 [//]: <> (About) 
 <h3 align="center">A passionate data scientist from India 🇮🇳</h3><br/>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **NOKIA** as ML Intern
+ 
+ 🌱 I’m currently learning **Apache Spark, LLM, AWS**
 
+💬 Ask me about **ML Algorithms, DL Techniques... or anything [here](https://github.com/GSelvakumar/GSelvakumar/issues)**
+
+ </div>
