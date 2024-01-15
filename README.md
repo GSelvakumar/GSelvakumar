@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NOKIA** as ML Intern
+ 🔭 I’m currently working in **NOKIA** as ML Intern
  
  🌱 I’m currently learning **Apache Spark, LLM, AWS**
 
