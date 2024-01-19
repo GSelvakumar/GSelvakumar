@@ -33,3 +33,26 @@
 </div>
 
 <hr/>
+
+
+[//]: <> (Language Information)
+<h2 align="center">⚒️ Languages-Framework-Tools⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,express,mysql,java,md" /><br>
+    <img src="https://skillicons.dev/icons?i=flask,bootstrap,pytorch,babel,opencv,sklearn,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=anaconda,aws,docker,figma,firebase,git,github,vscode" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
+
+
+
+
+
+
+
+
