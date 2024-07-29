@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working in **NOKIA** as ML Intern
+ 🔭 I’m currently working in **Primesoft** as Data Science Trainee
  
- 🌱 I’m currently learning **Apache Spark, LLM, AWS**
+ 🌱 I’m currently learning **Apache Spark, LLM, Recommendation Systems**
 
 💬 Ask me about **ML Algorithms, DL Techniques... or anything [here](https://github.com/GSelvakumar/GSelvakumar/issues)**
 
@@ -39,9 +39,9 @@
 <h2 align="center">⚒️ Languages-Framework-Tools⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,express,mysql,java,md" /><br>
-    <img src="https://skillicons.dev/icons?i=flask,bootstrap,pytorch,babel,opencv,sklearn,tensorflow" /><br>
-    <img src="https://skillicons.dev/icons?i=anaconda,aws,docker,figma,firebase,git,github,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,python,mysql,md" /><br>
+    <img src="https://skillicons.dev/icons?i=flask,pytorch,babel,opencv,sklearn,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=anaconda,docker,figma,firebase,git,github,vscode" /><br>
 </div>
 
 <br/>
